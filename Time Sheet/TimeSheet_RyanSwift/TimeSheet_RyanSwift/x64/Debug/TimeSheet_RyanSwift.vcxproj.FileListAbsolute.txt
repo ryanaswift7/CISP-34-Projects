@@ -1,0 +1,4 @@
+C:\Users\ryana\source\repos\TimeSheet_RyanSwift\TimeSheet_RyanSwift\x64\Debug\TimeSheet_RyanSwift.vcxproj.AssemblyReference.cache
+C:\Users\ryana\source\repos\TimeSheet_RyanSwift\TimeSheet_RyanSwift\x64\Debug\TimeSheet_RyanSwift.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ryana\source\repos\TimeSheet_RyanSwift\TimeSheet_RyanSwift\x64\Debug\TimeSheet_RyanSwift.MyForm.resources
+C:\Users\ryana\source\repos\TimeSheet_RyanSwift\TimeSheet_RyanSwift\x64\Debug\TimeSheet_RyanSwift.vcxproj.GenerateResource.cache

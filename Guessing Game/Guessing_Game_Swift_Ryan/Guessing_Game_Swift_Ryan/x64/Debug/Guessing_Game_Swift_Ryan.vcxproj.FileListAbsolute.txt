@@ -1,0 +1,4 @@
+C:\Users\ryana\source\repos\Guessing_Game_Swift_Ryan\Guessing_Game_Swift_Ryan\x64\Debug\Guessing_Game_Swift_Ryan.vcxproj.AssemblyReference.cache
+C:\Users\ryana\source\repos\Guessing_Game_Swift_Ryan\Guessing_Game_Swift_Ryan\x64\Debug\Guessing_Game_Swift_Ryan.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ryana\source\repos\Guessing_Game_Swift_Ryan\Guessing_Game_Swift_Ryan\x64\Debug\Guessing_Game_Swift_Ryan.MyForm.resources
+C:\Users\ryana\source\repos\Guessing_Game_Swift_Ryan\Guessing_Game_Swift_Ryan\x64\Debug\Guessing_Game_Swift_Ryan.vcxproj.GenerateResource.cache
